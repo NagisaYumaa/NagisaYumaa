@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://www.facebook.com/javascriptJS/photos/1559356324201966)" width="512px"/>
+<img src="https://www.facebook.com/javascriptJS/photos/1559356324201966" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NagisaYumaa&icon=0&color=0)](https://visitcount.itsvg.in)
