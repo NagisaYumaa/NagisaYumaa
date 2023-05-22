@@ -12,8 +12,8 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://www.facebook.com/javascriptJS/photos/1559356324201966" width="512px"/>
+### 😂Dev Meme
+https://www.facebook.com/javascriptJS/photos/1559356324201966
 
 ---
 
