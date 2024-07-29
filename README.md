@@ -12,8 +12,5 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Dev Meme
-![alt](https://scontent.fhan3-3.fna.fbcdn.net/v/t1.6435-9/67403541_1559356330868632_7506188595166707712_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9267fe&_nc_ohc=Ypf4rU8XMZIAX9RjaGL&_nc_ht=scontent.fhan3-3.fna&oh=00_AfBcS1uNpr9_0q98O1nq7Xt1Ak2rBdu2svPOHRdpMhx8Iw&oe=64925FC5)
 
----
 
